@@ -48,7 +48,7 @@ function concatenateArray() {
   const additionalStudents = [
     { id: 6, name: "Vicky", age: 24, marks: 85 },
     { id: 7, name: "Parama", age: 22, marks: 55 },
-    { id: 8, name: "Siva", age: 21, marks: 66 },
+    { id: 8, name: "Siva", age: 21, marks: 67 },
   ];
 
   // Combine the two arrays
